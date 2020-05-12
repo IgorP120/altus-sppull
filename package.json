@@ -1,8 +1,11 @@
 {
-  "name": "sppull",
+  "name": "altus-sppull",
   "description": "Download files from SharePoint document libraries using Node.js without hassles",
-  "version": "2.6.3",
+  "version": "0.0.1",
   "author": "Andrew Koltyakov <andrew.koltyakov@gmail.com>",
+  "contributors": [
+    { "name" : "Igor Pasechnyk" , "email" : "ipasech@gmail.com" }
+  ],
   "main": "./dist/index.js",
   "typings": "./dist/index",
   "scripts": {
