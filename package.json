@@ -4,7 +4,10 @@
   "version": "0.0.1",
   "author": "Andrew Koltyakov <andrew.koltyakov@gmail.com>",
   "contributors": [
-    { "name" : "Igor Pasechnyk" , "email" : "ipasech@gmail.com" }
+    {
+      "name": "Igor Pasechnyk",
+      "email": "ipasech@gmail.com"
+    }
   ],
   "main": "./dist/index.js",
   "typings": "./dist/index",
@@ -17,7 +20,7 @@
     "test:ci": "mocha --opts test/mocha.opts --ci || ECHO."
   },
   "bugs": {
-    "url": "https://github.com/koltyakov/sppull/issues"
+    "url": "https://github.com/IgorP120/altus-sppull/issues"
   },
   "keywords": [
     "sharepoint",
@@ -28,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/koltyakov/sppull.git"
+    "url": "git://github.com/IgorP120/altus-sppull.git"
   },
   "license": "MIT",
   "dependencies": {
